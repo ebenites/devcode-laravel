@@ -5,6 +5,7 @@
 * php artisan make:migration Products
 * Edit: database\migrations\yyyy_mm_dd_ggmiss_Products.php
 * php artisan migrate:install (first time)
+* php artisan migrate (first time)
 * php artisan migrate:refresh (next time)
 * php artisan make:seeder ProductsSeeder
 * Edit: database\seeds\ProductsSeeder.php
