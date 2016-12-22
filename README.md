@@ -12,6 +12,9 @@
 * Edit: database\seeds\ProductsSeeder.php
 * Edit: database\seeds\DatabaseSeeder.php
 * php artisan db:seed
+* php artisan migrate:refresh --seed (next time)
+
+Udemy example: https://github.com/JuanDMeGon/RESTful-API
 
 ## Commands Controllers
 
